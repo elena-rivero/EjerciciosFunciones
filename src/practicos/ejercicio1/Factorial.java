@@ -2,7 +2,6 @@ package practicos.ejercicio1;
 
 public class Factorial {
 
-	
 	public static long factorial(int numero) {
 		long result;
 		
